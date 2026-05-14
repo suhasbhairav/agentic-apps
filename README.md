@@ -1,17 +1,62 @@
-# Enterprise Multi-Agent Customer Support Ticket Analyzer
+# Enterprise AI Agent Systems Lab
 
-A production-style **multi-agent customer support ticket analysis system** built with **Next.js App Router**, **OpenAI Agents SDK**, and **Tailwind CSS**.
+A production-style collection of enterprise AI agent applications built with **Next.js App Router**, **OpenAI Agents SDK**, **Tailwind CSS**, **Zod**, and **JavaScript**.
 
-This project demonstrates how an enterprise support team can use multiple specialized AI agents to analyze incoming customer tickets, classify severity, detect SLA risk, identify likely root causes, assess customer sentiment, recommend escalation, and draft a professional customer response.
+This repository currently includes two AI agent systems:
+
+1. **Enterprise Multi-Agent Customer Support Ticket Analyzer**
+2. **Enterprise Procurement Approval Agent with Human Review**
+
+Both projects demonstrate how AI agents can be used in realistic enterprise workflows where structured output, guardrails, human review, and operational usefulness matter more than generic chatbot responses.
 
 Created by **Suhas Bhairav**  
 Website: [https://suhasbhairav.com](https://suhasbhairav.com)
 
 ---
 
+## Table of Contents
+
+- [Project 1: Enterprise Multi-Agent Customer Support Ticket Analyzer](#project-1-enterprise-multi-agent-customer-support-ticket-analyzer)
+- [Project 2: Enterprise Procurement Approval Agent with Human Review](#project-2-enterprise-procurement-approval-agent-with-human-review)
+- [Shared Design Principles](#shared-design-principles)
+- [Tech Stack](#tech-stack)
+- [Folder Structure](#folder-structure)
+- [Installation](#installation)
+- [Environment Variables](#environment-variables)
+- [Running Locally](#running-locally)
+- [API Routes](#api-routes)
+- [Local Development Notes](#local-development-notes)
+- [Production Notes](#production-notes)
+- [Possible Integrations](#possible-integrations)
+- [Screenshots](#screenshots)
+- [AI Lab JSON Content](#ai-lab-json-content)
+- [Learning Goals](#learning-goals)
+- [Why These Projects Matter](#why-these-projects-matter)
+- [Created By](#created-by)
+
+---
+
+# Project 1: Enterprise Multi-Agent Customer Support Ticket Analyzer
+
+A production-style **multi-agent customer support ticket analysis system** built with **Next.js App Router**, **OpenAI Agents SDK**, **Tailwind CSS**, **Zod**, and **JavaScript**.
+
+This project demonstrates how an enterprise support team can use multiple specialized AI agents to analyze incoming customer tickets, classify severity, detect SLA risk, identify likely root causes, assess customer sentiment, recommend escalation, and draft a professional customer response.
+
+---
+
 ## Project Overview
 
-Modern customer support teams receive thousands of tickets across email, chat, phone, portals, and internal escalation channels. For enterprise clients, every delay can lead to SLA breaches, customer churn, revenue loss, and operational disruption.
+Modern customer support teams receive thousands of tickets across email, chat, phone, portals, and internal escalation channels.
+
+For enterprise clients, every delay can lead to:
+
+- SLA breaches
+- Customer churn
+- Revenue loss
+- Renewal risk
+- Operational disruption
+- Internal escalation
+- Loss of customer trust
 
 This project shows how a **multi-agent AI workflow** can support enterprise ticket triage and decision-making.
 
@@ -28,7 +73,7 @@ The orchestrator coordinates these specialist agents and produces one structured
 
 ---
 
-## What This Project Does
+## What the Customer Support Analyzer Does
 
 The application accepts a customer support ticket with fields such as:
 
@@ -83,9 +128,12 @@ For example:
 
 This project separates those responsibilities into focused agents and lets one orchestrator combine the results.
 
+The result is not just a summary.  
+The result is a structured operational support plan.
+
 ---
 
-## Architecture
+## Customer Support Analyzer Architecture
 
 ```txt
 User Interface
@@ -113,3 +161,65 @@ Structured JSON Analysis
     |
     v
 Responsive Enterprise Dashboard UI
+```
+
+# Project 2: Enterprise Procurement Approval Agent with Human Review
+
+A production-style **enterprise procurement approval agent** built with **Next.js App Router**, **OpenAI Agents SDK**, **Tailwind CSS**, **Zod**, and **human-in-the-loop approval logic**.
+
+This project demonstrates how AI agents can support procurement teams by analyzing purchase requests, checking policy compliance, assessing vendor risk, reviewing budget impact, evaluating business justification, and preparing the request for human approval.
+
+The important point is that the AI does **not** silently approve or execute purchases. The AI prepares a structured decision package, but the final approval remains with a human reviewer.
+
+---
+
+## Project 2 Overview
+
+Enterprise procurement is rarely a simple yes or no decision.
+
+A single software purchase may require several checks before it can move forward:
+
+- Is the vendor already approved?
+- Is the purchase above the approval threshold?
+- Does it require budget owner approval?
+- Does it process personal data?
+- Does it touch security-sensitive systems?
+- Does it require privacy review?
+- Does it require security review?
+- Are contract terms, SLA terms, and data residency details clear?
+- Is the business justification strong enough?
+- Should the purchase be approved, rejected, or approved only with conditions?
+
+This project demonstrates how an AI agent can turn a raw procurement request into a structured approval analysis.
+
+The agent reviews the request and produces a decision package that a procurement manager, budget owner, security reviewer, privacy reviewer, or executive approver can inspect.
+
+---
+
+## Business Use Case
+
+Imagine an engineering team wants to buy an observability platform.
+
+The request looks valuable because it can help the company:
+
+- Monitor production APIs
+- Reduce incident response time
+- Improve reliability reporting
+- Give engineering teams visibility into latency, errors, and service health
+
+But the same request also creates risk:
+
+- The vendor is new
+- The software may process personal data
+- The software may touch production logs and infrastructure data
+- The cost is above the procurement approval threshold
+- Security certifications are not yet verified
+- SLA terms are not confirmed
+- Data residency details are unclear
+
+A human reviewer should not approve this blindly.
+
+The AI agent helps by producing a clear recommendation such as:
+
+```txt
+Approve with conditions
