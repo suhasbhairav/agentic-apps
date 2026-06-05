@@ -1,255 +1,192 @@
-# Enterprise AI Agent Systems Lab
+# Enterprise AI Agent Apps
 
-A production-style collection of enterprise AI agent applications built with **Next.js App Router**, **React**, **Tailwind CSS**, **OpenAI Agents SDK**, **Zod**, and **JavaScript**.
+A portfolio of enterprise AI agent applications built around high-value business workflows: customer support, procurement, project risk, contract renewals, sales enablement, and customer service operations.
 
-This repository demonstrates how AI agents can be used in realistic enterprise workflows where **structured output**, **specialist agents**, **guardrails**, **human review**, and **operational usefulness** matter more than generic chatbot responses.
-
-The repository currently includes three AI agent systems:
-
-1. **Enterprise Multi-Agent Customer Support Ticket Analyzer**
-2. **Enterprise Procurement Approval Agent with Human Review**
-3. **Enterprise Contract Renewal Agent with Human Review**
+These apps are designed to show how agentic AI can improve decision quality, reduce manual analysis, standardize governance, and keep humans in control of sensitive business actions.
 
 Created by **Suhas Bhairav**  
-Website: [https://suhasbhairav.com](https://suhasbhairav.com)
+Website: [suhasbhairav.com](https://suhasbhairav.com)
 
----
+## Executive Overview
 
-## Table of Contents
+This folder contains **6 projects in total**, organized into two groups:
 
-- [Why This Repository Exists](#why-this-repository-exists)
-- [Projects Included](#projects-included)
-- [Project 1: Enterprise Multi-Agent Customer Support Ticket Analyzer](#project-1-enterprise-multi-agent-customer-support-ticket-analyzer)
-- [Project 2: Enterprise Procurement Approval Agent with Human Review](#project-2-enterprise-procurement-approval-agent-with-human-review)
-- [Project 3: Enterprise Contract Renewal Agent with Human Review](#project-3-enterprise-contract-renewal-agent-with-human-review)
-- [Shared Architecture](#shared-architecture)
-- [Shared Design Principles](#shared-design-principles)
-- [Tech Stack](#tech-stack)
-- [Folder Structure](#folder-structure)
-- [Installation](#installation)
-- [Environment Variables](#environment-variables)
-- [Running Locally](#running-locally)
-- [API Routes](#api-routes)
-- [Human Approval Workflow](#human-approval-workflow)
-- [Structured Output](#structured-output)
-- [Screenshots](#screenshots)
-- [Production Notes](#production-notes)
-- [Possible Enterprise Integrations](#possible-enterprise-integrations)
-- [Learning Goals](#learning-goals)
-- [Created By](#created-by)
+- **4 AI Agent Workflow Apps** for structured business analysis, policy checks, risk review, and human approval.
+- **2 AI Copilot Projects** for role-specific knowledge assistance using uploaded business documents.
 
----
+The common goal across all projects is practical enterprise adoption: useful workflows, clear outputs, reviewable decisions, and business controls.
 
-# Why This Repository Exists
+## AI Agent Workflow Apps (4 Projects)
 
-Most AI demos are chat interfaces.
+| Project | Business Function | Business Value | Link |
+| --- | --- | --- | --- |
+| AI Customer Support Tickets Analyzer | Customer support and customer success | Prioritizes tickets, identifies SLA and relationship risk, drafts responses, and helps support leaders standardize triage quality. | [Open project](./ai-customer-support-tickets-analyzer/) |
+| AI Procurement Approval Agent | Procurement, finance, and operations | Reviews purchase requests against policy, highlights vendor and budget risk, and pauses purchase-order submission for human approval. | [Open project](./ai-human-agent-approval/) |
+| AI Project Risk Review Agent | PMO, delivery, and transformation leadership | Assesses project delivery risk, identifies missing controls, and requires human approval before formal risk-register submission. | [Open project](./ai-project-risk-review-agent/) |
+| AI Contract Renewal Agent | Legal, procurement, finance, and vendor management | Reviews renewals for commercial, legal, performance, security, and business-value risk before renewal execution. | [Open project](./ai-contract-renewal-agent/) |
 
-But enterprise AI systems usually need more than chat.
+## AI Copilot Projects (2 Projects)
 
-Real enterprise teams need systems that can:
+The AI Copilots are included under [`ai-copilots`](./ai-copilots/) and are separate from the workflow approval apps. They focus on helping business users retrieve, understand, and act on knowledge from uploaded PDF documents.
 
-- Analyze business context
-- Follow policy rules
-- Identify missing information
-- Assess operational risk
-- Produce structured JSON output
-- Route decisions to humans
-- Pause sensitive execution
-- Generate audit-friendly review packages
-- Connect to real business systems
-- Support governance, compliance, and accountability
+| Copilot Project | Business Function | Business Value | Link |
+| --- | --- | --- | --- |
+| Sales Copilot | Sales enablement and account teams | Turns sales PDFs, reports, playbooks, and reference documents into a searchable assistant for faster account preparation and customer conversations. | [Open Sales Copilot](./ai-copilots/sales-copilot/) |
+| Customer Service Copilot | Customer service and support operations | Indexes service policies, FAQs, manuals, and SLA documents, then drafts customer-ready replies in selectable service tones. | [Open Customer Service Copilot](./ai-copilots/customer-service-copilot/) |
 
-This repository shows how AI agents can be used as **workflow intelligence layers**.
+## Project Details
 
-The goal is not to build agents that blindly execute business actions.  
-The goal is to build agents that help humans make better decisions faster.
+### [AI Customer Support Tickets Analyzer](./ai-customer-support-tickets-analyzer/)
 
----
+Analyzes enterprise support tickets and produces a structured support decision package.
 
-# Projects Included
+It helps teams understand ticket severity, SLA breach risk, customer sentiment, relationship risk, possible root cause, missing diagnostic information, recommended escalation, customer response drafts, internal notes, governance checks, tags, and next best action.
 
-## 1. Enterprise Multi-Agent Customer Support Ticket Analyzer
+Source links:
 
-A multi-agent system that analyzes enterprise support tickets and produces a structured support decision package.
+- [Application UI](./ai-customer-support-tickets-analyzer/app/page.js)
+- [Ticket analyzer API](./ai-customer-support-tickets-analyzer/app/api/ticket-analyzer/route.js)
 
-It helps support teams understand:
+### [AI Procurement Approval Agent](./ai-human-agent-approval/)
 
-- Ticket severity
-- SLA breach risk
-- Customer sentiment
-- Relationship risk
-- Possible root cause
-- Missing diagnostic information
-- Recommended escalation
-- Customer response draft
-- Internal support note
-- Next best action
+Reviews procurement requests before purchase approval and keeps sensitive purchase-order submission behind human review.
 
----
+It helps teams evaluate policy compliance, required approvals, vendor risk, budget impact, business justification, missing information, purchase-order readiness, and governance concerns.
 
-## 2. Enterprise Procurement Approval Agent with Human Review
+Source links:
 
-A human-in-the-loop AI agent that analyzes procurement requests before purchase approval.
+- [Application UI](./ai-human-agent-approval/app/page.js)
+- [Procurement approval API](./ai-human-agent-approval/app/api/procurement-approval-agent/route.js)
 
-It helps procurement teams understand:
+### [AI Project Risk Review Agent](./ai-project-risk-review-agent/)
 
-- Policy compliance
-- Required approvals
-- Vendor risk
-- Budget impact
-- Business justification
-- Missing information
-- Human review requirements
-- Purchase order readiness
-- Governance concerns
+Reviews project plans for delivery, dependency, stakeholder, timeline, budget, and governance risk.
 
----
+It is aimed at PMO and transformation leaders who need consistent project risk review before risks are formally submitted or acted on.
 
-## 3. Enterprise Contract Renewal Agent with Human Review
+Source links:
 
-A human-in-the-loop AI agent that analyzes contract renewal requests before renewal approval.
+- [Application UI](./ai-project-risk-review-agent/app/page.js)
+- [Project risk review API](./ai-project-risk-review-agent/app/api/project-risk-review-agent/route.js)
 
-It helps contract, procurement, finance, legal, security, and privacy teams understand:
+### [AI Contract Renewal Agent](./ai-contract-renewal-agent/)
 
-- Renewal policy status
-- Vendor performance
-- SLA issues
-- Commercial impact
-- Price increase risk
-- Legal risk
-- Contract clauses to review
-- Business value
-- Negotiation levers
-- Human approval requirements
+Analyzes contract renewal requests before renewal execution.
 
----
+It helps teams review renewal policy status, vendor performance, SLA issues, commercial impact, price-increase risk, legal clauses, security and privacy review needs, business value, negotiation levers, and approval requirements.
 
-# Project 1: Enterprise Multi-Agent Customer Support Ticket Analyzer
+Source links:
 
-## Overview
+- [Application UI](./ai-contract-renewal-agent/app/page.js)
+- [Contract renewal API](./ai-contract-renewal-agent/app/api/contract-renewal-agent/route.js)
 
-The **Enterprise Multi-Agent Customer Support Ticket Analyzer** is a production-style AI workflow for enterprise support teams.
+### [Sales Copilot](./ai-copilots/sales-copilot/)
 
-Modern support teams receive customer issues through:
+A document-based sales assistant for uploaded PDF knowledge. Sales teams can upload reference documents and chat with them to support account planning, discovery preparation, and customer conversations.
 
-- Email
-- Chat
-- Phone
-- Support portals
-- Internal escalation channels
-- Customer success managers
-- Account teams
+Source links:
 
-For enterprise customers, every delay can create serious consequences:
+- [Frontend UI](./ai-copilots/sales-copilot/frontend/app/page.js)
+- [FastAPI backend](./ai-copilots/sales-copilot/fastapi-backend/main.py)
 
-- SLA breaches
-- Customer dissatisfaction
-- Revenue loss
-- Churn risk
-- Renewal risk
-- Executive escalation
-- Operational disruption
+### [Customer Service Copilot](./ai-copilots/customer-service-copilot/)
 
-This project demonstrates how AI agents can help support teams triage and understand tickets faster.
+A document-based service assistant for customer support teams. Support teams can upload service policies, FAQs, product manuals, and SLA documents, then generate customer-ready responses grounded in those documents.
 
-Instead of using a single generic LLM prompt, this project uses specialist agents.
+Source links:
 
-## Specialist Agents
+- [Frontend UI](./ai-copilots/customer-service-copilot/frontend/app/page.js)
+- [FastAPI backend](./ai-copilots/customer-service-copilot/fastapi-backend/main.py)
 
-The system can include agents such as:
+## Enterprise Themes
 
-- **Customer Sentiment Analyst**
-- **Severity and Escalation Analyst**
-- **Root Cause Analyst**
-- **SLA Risk Analyst**
-- **Customer Response Drafting Agent**
-- **Enterprise Ticket Analysis Orchestrator**
+- **Human control:** approval-based apps pause sensitive actions for human review.
+- **Decision consistency:** agents produce structured, repeatable business outputs.
+- **Governance:** workflows surface missing information, risk, policy issues, and approval needs.
+- **Operational usefulness:** each app is built around a real business process, not a generic chatbot.
+- **Knowledge leverage:** copilot apps turn business documents into role-specific assistants.
 
-Each agent focuses on one part of the problem.
+## Developer Notes
 
-The orchestrator combines the specialist outputs into a final structured analysis.
+The Next.js agent apps use React, Tailwind CSS, JavaScript, the OpenAI Agents SDK, and Zod.
 
-## Input Fields
+The copilot apps use a Next.js frontend with a FastAPI backend, LlamaIndex, OpenAI models, PDF upload, and local vector storage.
 
-The support ticket analyzer can accept fields such as:
+### Environment Variables
 
-- Ticket ID
-- Subject
-- Description
-- Channel
-- Customer tier
-- Product
-- Customer name
-- Company
-- Region
-- SLA policy
-- Product context
-- Known incident notes
+The Next.js agent apps use:
 
-## Output
+```bash
+OPENAI_API_KEY=your_openai_api_key
+```
 
-The backend returns structured support intelligence such as:
+Optional model overrides:
 
-- Executive summary
-- Ticket classification
-- Severity level
-- Urgency
-- SLA breach risk
-- Customer sentiment
-- Relationship risk
-- Root cause analysis
-- Missing information
-- Diagnostic questions
-- Suggested internal checks
-- Recommended actions
-- Escalation recommendation
-- Customer response draft
-- Internal support note
-- Governance checks
-- Tags
-- Next best action
+```bash
+SUPPORT_AGENT_MODEL=gpt-5-nano
+PROCUREMENT_AGENT_MODEL=gpt-5-nano
+PROJECT_RISK_AGENT_MODEL=gpt-5-nano
+CONTRACT_RENEWAL_AGENT_MODEL=gpt-5-nano
+```
 
-## Why This Project Matters
+Optional persistence for human-approval state:
 
-Customer support is not just answering tickets.
+```bash
+UPSTASH_REDIS_REST_URL=your_upstash_redis_rest_url
+UPSTASH_REDIS_REST_TOKEN=your_upstash_redis_rest_token
+```
 
-Enterprise support requires:
+Optional dry-run switches for guarded action tools:
 
-- Prioritization
-- SLA awareness
-- Root cause thinking
-- Customer relationship awareness
-- Escalation management
-- Clear internal notes
-- Safe customer communication
+```bash
+PROCUREMENT_DRY_RUN=true
+PROJECT_RISK_DRY_RUN=true
+CONTRACT_RENEWAL_DRY_RUN=true
+```
 
-This project shows how AI agents can transform an incoming ticket into a structured operational plan.
+The FastAPI copilot backends use:
 
-## Customer Support Architecture
+```bash
+OPENAI_API_KEY=your_openai_api_key
+FRONTEND_ORIGINS=http://localhost:3000,http://127.0.0.1:3000
+```
 
-```txt
-User Interface
-    |
-    | Ticket Form
-    v
-Next.js Frontend
-    |
-    | POST /api/ticket-analyzer
-    v
-Next.js API Route
-    |
-    | OpenAI Agents SDK
-    v
-Enterprise Ticket Analysis Orchestrator
-    |
-    |-- Customer Sentiment Analyst
-    |-- Severity and Escalation Analyst
-    |-- Root Cause Analyst
-    |-- SLA Risk Analyst
-    |-- Customer Response Drafting Agent
-    |
-    v
-Structured JSON Analysis
-    |
-    v
-Enterprise Dashboard UI
+### Running Locally
+
+Run each app from its own directory.
+
+For a Next.js agent app:
+
+```bash
+cd ai-customer-support-tickets-analyzer
+npm install
+npm run dev
+```
+
+Use the same command pattern for [AI Procurement Approval Agent](./ai-human-agent-approval/), [AI Project Risk Review Agent](./ai-project-risk-review-agent/), and [AI Contract Renewal Agent](./ai-contract-renewal-agent/).
+
+For an AI Copilot project, run the backend and frontend separately.
+
+Backend:
+
+```bash
+cd ai-copilots/sales-copilot/fastapi-backend
+python -m venv .venv
+source .venv/bin/activate
+pip install fastapi uvicorn python-multipart python-dotenv llama-index llama-index-llms-openai llama-index-embeddings-openai
+uvicorn main:app --reload --host 127.0.0.1 --port 8000
+```
+
+Frontend:
+
+```bash
+cd ai-copilots/sales-copilot/frontend
+npm install
+npm run dev
+```
+
+Use the same backend/frontend pattern for [Customer Service Copilot](./ai-copilots/customer-service-copilot/). The current frontend code expects the FastAPI backend at `http://127.0.0.1:8000`.
+
+## License
+
+See [LICENSE](./LICENSE).
