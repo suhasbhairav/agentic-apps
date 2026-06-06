@@ -1,0 +1,985 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R] /Count 9 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 3778 >>
+stream
+0.045 0.055 0.075 rg
+0.00 0.00 612.00 792.00 re f
+0.380 0.200 0.750 rg
+0.00 594.00 612.00 198.00 re f
+0.030 0.040 0.055 rg
+0.00 594.00 612.00 26.00 re f
+1.000 1.000 1.000 rg
+46.00 626.00 520.00 1.50 re f
+0.230 0.270 0.330 rg
+46.00 566.00 520.00 1.00 re f
+1.000 1.000 1.000 rg
+BT /F2 12.00 Tf 46.00 735.00 Td (MINDARORA LLP) Tj ET
+0.880 0.940 1.000 rg
+BT /F2 8.50 Tf 438.00 735.00 Td (INTERNAL ADVISOR PLAYBOOK) Tj ET
+0.780 0.900 1.000 rg
+BT /F2 8.50 Tf 46.00 701.00 Td (STRICTLY INTERNAL - NOT FOR CLIENT DISTRIBUTION) Tj ET
+1.000 1.000 1.000 rg
+BT /F2 25.00 Tf 46.00 656.00 Td (Data Audit Playbook) Tj ET
+0.860 0.900 0.950 rg
+BT /F1 11.00 Tf 46.00 614.00 Td (Commercial guidance, client recommendation logic, risk framing, and) Tj ET
+0.860 0.900 0.950 rg
+BT /F1 11.00 Tf 46.00 598.00 Td (sequenced implementation plan.) Tj ET
+0.580 0.640 0.720 rg
+BT /F2 8.00 Tf 46.00 532.00 Td (Prepared for) Tj ET
+1.000 1.000 1.000 rg
+BT /F2 12.00 Tf 46.00 512.00 Td (Mindarora LLP) Tj ET
+0.580 0.640 0.720 rg
+BT /F2 8.00 Tf 326.00 532.00 Td (Prepared by) Tj ET
+1.000 1.000 1.000 rg
+BT /F2 12.00 Tf 326.00 512.00 Td (Suhas Bhairav, Mindarora LLP) Tj ET
+0.580 0.640 0.720 rg
+BT /F2 8.00 Tf 46.00 474.00 Td (Source dataset) Tj ET
+0.920 0.950 0.980 rg
+BT /F1 12.00 Tf 46.00 455.00 Td (erp.csv) Tj ET
+0.580 0.640 0.720 rg
+BT /F2 8.00 Tf 326.00 474.00 Td (Recommended path) Tj ET
+0.920 0.950 0.980 rg
+BT /F2 11.00 Tf 326.00 455.00 Td (Custom GenAI and predictive intelligence) Tj ET
+0.920 0.950 0.980 rg
+BT /F2 11.00 Tf 326.00 439.00 Td (program) Tj ET
+1.000 1.000 1.000 rg
+0.860 0.880 0.910 RG
+46.00 324.00 155.00 76.00 re B
+0.450 0.490 0.550 rg
+BT /F2 7.50 Tf 60.00 377.00 Td (MATURITY) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 20.00 Tf 60.00 351.00 Td (90 / 100) Tj ET
+0.450 0.490 0.550 rg
+BT /F1 8.00 Tf 60.00 336.00 Td (AI Scale Ready) Tj ET
+1.000 1.000 1.000 rg
+0.860 0.880 0.910 RG
+224.00 324.00 155.00 76.00 re B
+0.450 0.490 0.550 rg
+BT /F2 7.50 Tf 238.00 377.00 Td (ROWS) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 20.00 Tf 238.00 351.00 Td (13) Tj ET
+0.450 0.490 0.550 rg
+BT /F1 8.00 Tf 238.00 336.00 Td (records profiled) Tj ET
+1.000 1.000 1.000 rg
+0.860 0.880 0.910 RG
+402.00 324.00 155.00 76.00 re B
+0.450 0.490 0.550 rg
+BT /F2 7.50 Tf 416.00 377.00 Td (COLUMNS) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 20.00 Tf 416.00 351.00 Td (8) Tj ET
+0.450 0.490 0.550 rg
+BT /F1 8.00 Tf 416.00 336.00 Td (fields mapped) Tj ET
+1.000 1.000 1.000 rg
+BT /F2 13.00 Tf 46.00 270.00 Td (Document purpose) Tj ET
+0.780 0.830 0.900 rg
+BT /F1 10.50 Tf 46.00 246.00 Td (Use this document to prepare the client conversation, prioritize paid work, and anchor) Tj ET
+0.780 0.830 0.900 rg
+BT /F1 10.50 Tf 46.00 231.00 Td (recommendations in observed evidence.) Tj ET
+0.070 0.085 0.110 rg
+0.180 0.210 0.270 RG
+46.00 112.00 520.00 58.00 re B
+0.780 0.900 1.000 rg
+BT /F2 8.00 Tf 62.00 148.00 Td (CONFIDENTIALITY AND OWNERSHIP) Tj ET
+0.720 0.760 0.820 rg
+BT /F1 7.20 Tf 62.00 132.00 Td (Confidential and proprietary. This report, analysis, recommendations, workflows, and all related materials) Tj ET
+0.720 0.760 0.820 rg
+BT /F1 7.20 Tf 62.00 120.00 Td (are the property of Mindarora LLP. Prepared by Suhas Bhairav. Copyright 2026 Mindarora LLP. All rights) Tj ET
+0.860 0.900 0.950 rg
+BT /F2 9.00 Tf 46.00 76.00 Td (Mindarora LLP | Suhas Bhairav) Tj ET
+0.620 0.660 0.720 rg
+BT /F1 8.00 Tf 46.00 60.00 Td (Copyright 2026 Mindarora LLP. All rights reserved. Generated 2026-05-31 UTC.) Tj ET
+0.82 0.84 0.88 RG 0.75 w 46 50 m 566 50 l S
+BT /F2 7.5 Tf 46 36 Td (Mindarora LLP | Suhas Bhairav | Copyright 2026. All rights reserved.) Tj ET
+BT /F1 6.5 Tf 46 24 Td (Confidential and proprietary. This report, analysis, recommendations, workflows, and all related materials are the property of Minda) Tj ET
+BT /F1 7 Tf 510 36 Td (Page 1 of 9) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 5542 >>
+stream
+0.970 0.980 0.990 rg
+0.00 760.00 612.00 32.00 re f
+0.250 0.290 0.340 rg
+BT /F2 9.00 Tf 46.00 772.00 Td (Applied AI Foundry Data Audit) Tj ET
+0.350 0.390 0.450 rg
+BT /F1 9.00 Tf 430.00 772.00 Td (Executive Summary) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 22.00 Tf 46.00 720.00 Td (Executive Summary) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 10.50 Tf 46.00 688.00 Td (erp.csv is structurally ingestible and contains a usable operating) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 10.50 Tf 46.00 673.00 Td (snapshot, but the enterprise readiness level is constrained by 5.8%) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 10.50 Tf 46.00 658.00 Td (average missingness, 1 detected quality anomalies, and 2 sensitive) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 10.50 Tf 46.00 643.00 Td (column classifications.) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 10.50 Tf 46.00 624.00 Td (The recommended posture is 'Custom GenAI and predictive intelligence) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 10.50 Tf 46.00 609.00 Td (program'. The dataset currently sits in the 'AI Scale Ready' band,) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 10.50 Tf 46.00 594.00 Td (so transformation should sequence ontology standardization, data) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 10.50 Tf 46.00 579.00 Td (contracts, and workflow automation before deeper model autonomy.) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 14.00 Tf 46.00 560.00 Td (Board-Level Findings) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 540.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 540.00 Td (Overall completeness is 94.2%, which determines how much of the business process can) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 526.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 526.00 Td (be trusted for automation.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 510.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 510.00 Td (0 fields require remediation before they should drive executive metrics or AI) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 496.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 496.00 Td (decisions.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 480.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 480.00 Td (1 anomalies indicate validation gaps in upstream systems or manual entry workflows.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 464.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 464.00 Td (2 PII-bearing fields need governance before the data can be safely exposed to) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 450.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 450.00 Td (assistants or copilots.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 434.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 434.00 Td (The dataset has measures and timestamps, making it suitable for operational dashboards) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 420.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 420.00 Td (after cleanup.) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 14.00 Tf 46.00 404.00 Td (Readiness) Tj ET
+0.980 0.990 1.000 rg
+0.860 0.880 0.910 RG
+46.00 314.00 246.00 70.00 re B
+0.050 0.070 0.100 rg
+BT /F2 10.00 Tf 58.00 362.00 Td (Data Quality) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 15.00 Tf 236.00 362.00 Td (92) Tj ET
+0.420 0.460 0.520 rg
+BT /F1 8.00 Tf 58.00 339.00 Td (0 low-completeness columns; 1 anomaly signals) Tj ET
+0.900 0.920 0.950 rg
+58.00 326.00 160.00 5.00 re f
+0.380 0.200 0.750 rg
+58.00 326.00 147.52 5.00 re f
+0.980 0.990 1.000 rg
+0.860 0.880 0.910 RG
+311.00 314.00 246.00 70.00 re B
+0.050 0.070 0.100 rg
+BT /F2 10.00 Tf 323.00 362.00 Td (Ontology Coverage) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 15.00 Tf 501.00 362.00 Td (90) Tj ET
+0.420 0.460 0.520 rg
+BT /F1 8.00 Tf 323.00 339.00 Td (Columns mapped to canonical business entities; Domain grou) Tj ET
+0.900 0.920 0.950 rg
+323.00 326.00 160.00 5.00 re f
+0.380 0.200 0.750 rg
+323.00 326.00 144.00 5.00 re f
+0.980 0.990 1.000 rg
+0.860 0.880 0.910 RG
+46.00 222.00 246.00 70.00 re B
+0.050 0.070 0.100 rg
+BT /F2 10.00 Tf 58.00 270.00 Td (Governance) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 15.00 Tf 236.00 270.00 Td (76) Tj ET
+0.420 0.460 0.520 rg
+BT /F1 8.00 Tf 58.00 247.00 Td (2 PII columns detected; Access and retention policy requir) Tj ET
+0.900 0.920 0.950 rg
+58.00 234.00 160.00 5.00 re f
+0.380 0.200 0.750 rg
+58.00 234.00 121.60 5.00 re f
+0.980 0.990 1.000 rg
+0.860 0.880 0.910 RG
+311.00 222.00 246.00 70.00 re B
+0.050 0.070 0.100 rg
+BT /F2 10.00 Tf 323.00 270.00 Td (Workflow Automation) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 15.00 Tf 501.00 270.00 Td (100) Tj ET
+0.420 0.460 0.520 rg
+BT /F1 8.00 Tf 323.00 247.00 Td (2 lifecycle timestamp columns; Rule-based workflow candida) Tj ET
+0.900 0.920 0.950 rg
+323.00 234.00 160.00 5.00 re f
+0.380 0.200 0.750 rg
+323.00 234.00 160.00 5.00 re f
+0.980 0.990 1.000 rg
+0.860 0.880 0.910 RG
+46.00 130.00 246.00 70.00 re B
+0.050 0.070 0.100 rg
+BT /F2 10.00 Tf 58.00 178.00 Td (AI Deployment) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 15.00 Tf 236.00 178.00 Td (93) Tj ET
+0.420 0.460 0.520 rg
+BT /F1 8.00 Tf 58.00 155.00 Td (Agent feasibility compared against quality and ontology st) Tj ET
+0.900 0.920 0.950 rg
+58.00 142.00 160.00 5.00 re f
+0.380 0.200 0.750 rg
+58.00 142.00 148.80 5.00 re f
+0.82 0.84 0.88 RG 0.75 w 46 50 m 566 50 l S
+BT /F2 7.5 Tf 46 36 Td (Mindarora LLP | Suhas Bhairav | Copyright 2026. All rights reserved.) Tj ET
+BT /F1 6.5 Tf 46 24 Td (Confidential and proprietary. This report, analysis, recommendations, workflows, and all related materials are the property of Minda) Tj ET
+BT /F1 7 Tf 510 36 Td (Page 2 of 9) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 3540 >>
+stream
+0.970 0.980 0.990 rg
+0.00 760.00 612.00 32.00 re f
+0.250 0.290 0.340 rg
+BT /F2 9.00 Tf 46.00 772.00 Td (Applied AI Foundry Data Audit) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 14.00 Tf 46.00 720.00 Td (Advisor Steps) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 700.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 700.00 Td (1. Open with the maturity score and position the engagement as risk reduction plus) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 686.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 686.00 Td (automation acceleration.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 670.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 670.00 Td (2. Show the client the domain model first so they see that this is more than a CSV) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 656.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 656.00 Td (audit.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 640.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 640.00 Td (3. Recommend a 2-4 week foundation sprint before promising custom GenAI outcomes.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 624.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 624.00 Td (4. Package low-code workflow automation as the first ROI milestone while data) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 610.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 610.00 Td (contracts mature.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 594.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 594.00 Td (5. Use the risk register to justify governance, PII controls, and source validation) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 580.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 580.00 Td (work.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 564.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 564.00 Td (6. Create a canonical entity dictionary for customers, accounts, deals, orders,) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 550.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 550.00 Td (activities, and financial measures.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 534.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 534.00 Td (7. Assign data owners for each business domain and agree minimum viable data contracts) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 520.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 520.00 Td (for new records.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 504.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 504.00 Td (8. Classify PII handling rules, retention policy, masking requirements, and access) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 490.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 490.00 Td (controls before broad analyst rollout.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 474.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 474.00 Td (9. Use timestamp fields to build lifecycle analytics and identify automation trigger) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 460.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 460.00 Td (points.) Tj ET
+0.82 0.84 0.88 RG 0.75 w 46 50 m 566 50 l S
+BT /F2 7.5 Tf 46 36 Td (Mindarora LLP | Suhas Bhairav | Copyright 2026. All rights reserved.) Tj ET
+BT /F1 6.5 Tf 46 24 Td (Confidential and proprietary. This report, analysis, recommendations, workflows, and all related materials are the property of Minda) Tj ET
+BT /F1 7 Tf 510 36 Td (Page 3 of 9) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 4664 >>
+stream
+0.970 0.980 0.990 rg
+0.00 760.00 612.00 32.00 re f
+0.250 0.290 0.340 rg
+BT /F2 9.00 Tf 46.00 772.00 Td (Applied AI Foundry Data Audit) Tj ET
+0.350 0.390 0.450 rg
+BT /F1 9.00 Tf 430.00 772.00 Td (Playbook) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 22.00 Tf 46.00 720.00 Td (Options) Tj ET
+1.000 1.000 1.000 rg
+0.860 0.880 0.910 RG
+46.00 600.00 520.00 84.00 re B
+0.050 0.070 0.100 rg
+BT /F2 12.00 Tf 60.00 664.00 Td (Off-the-shelf workflow automation) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 11.00 Tf 486.00 664.00 Td (100 fit) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 8.50 Tf 60.00 645.00 Td (Automated reminders, enrichment, routing, validation, and manager visibility without custom model ri) Tj ET
+0.450 0.490 0.550 rg
+BT /F1 8.00 Tf 60.00 627.00 Td (Prerequisites: Stable source exports or API access, Named owners for trigger fields, Clear exception handling ) Tj ET
+0.200 0.230 0.280 rg
+BT /F2 8.00 Tf 60.00 613.00 Td (Tools: Zapier, Make, n8n, Airtable Automations, HubSpot Workflows) Tj ET
+1.000 1.000 1.000 rg
+0.860 0.880 0.910 RG
+46.00 498.00 520.00 84.00 re B
+0.050 0.070 0.100 rg
+BT /F2 12.00 Tf 60.00 562.00 Td (Custom GenAI operating layer) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 11.00 Tf 486.00 562.00 Td (93 fit) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 8.50 Tf 60.00 543.00 Td (Role-specific assistants, semantic search, automated briefings, next-best-action recommendations, an) Tj ET
+0.450 0.490 0.550 rg
+BT /F1 8.00 Tf 60.00 525.00 Td (Prerequisites: PII policy, High-confidence ontology, Retrieval corpus or clean structured records) Tj ET
+0.200 0.230 0.280 rg
+BT /F2 8.00 Tf 60.00 511.00 Td (Tools: OpenAI API, LangGraph, LlamaIndex, vector database, warehouse semantic layer) Tj ET
+1.000 1.000 1.000 rg
+0.860 0.880 0.910 RG
+46.00 396.00 520.00 84.00 re B
+0.050 0.070 0.100 rg
+BT /F2 12.00 Tf 60.00 460.00 Td (Data foundation and ontology sprint) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 11.00 Tf 486.00 460.00 Td (92 fit) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 8.50 Tf 60.00 441.00 Td (Canonical entities, data contracts, source-of-truth decisions, data quality gates, and board-ready d) Tj ET
+0.450 0.490 0.550 rg
+BT /F1 8.00 Tf 60.00 423.00 Td (Prerequisites: Access to raw exports, Stakeholder interviews, System inventory) Tj ET
+0.200 0.230 0.280 rg
+BT /F2 8.00 Tf 60.00 409.00 Td (Tools: dbt, Postgres, DuckDB, BigQuery, Snowflake) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 14.00 Tf 46.00 382.00 Td (Where AI Helps Realistically) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 9.50 Tf 46.00 362.00 Td (Use these points to keep the client conversation grounded: AI is valuable where it explains,) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 9.50 Tf 46.00 347.00 Td (summarizes, routes, and assists review; it should not bypass data contracts or owner) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 9.50 Tf 46.00 332.00 Td (approval.) Tj ET
+0.980 0.990 1.000 rg
+0.860 0.880 0.910 RG
+46.00 215.00 520.00 94.00 re B
+0.050 0.070 0.100 rg
+BT /F2 11.00 Tf 60.00 290.00 Td (Decision support for managers and consultants) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 8.30 Tf 60.00 273.00 Td (AI can summarize the audit, explain quality gaps, and turn findings into prioritized action lists.) Tj ET
+0.420 0.460 0.520 rg
+BT /F1 8.00 Tf 60.00 256.00 Td (Evidence: 0 low-completeness fields need sequencing; 1 anomaly signals need triage) Tj ET
+0.420 0.460 0.520 rg
+BT /F1 8.00 Tf 60.00 241.00 Td (Prerequisites: Canonical business entities, Data owners for exceptions, Reusable report templates) Tj ET
+0.450 0.220 0.100 rg
+BT /F2 8.00 Tf 60.00 226.00 Td (Limit: AI can recommend priorities, but owners still need to confirm operational context.) Tj ET
+0.980 0.990 1.000 rg
+0.860 0.880 0.910 RG
+46.00 103.00 520.00 94.00 re B
+0.050 0.070 0.100 rg
+BT /F2 11.00 Tf 60.00 178.00 Td (Workflow triage and exception explanation) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 8.30 Tf 60.00 161.00 Td (AI can draft explanations for flagged records and group similar exceptions for operations teams.) Tj ET
+0.420 0.460 0.520 rg
+BT /F1 8.00 Tf 60.00 144.00 Td (Evidence: 2 lifecycle timestamp fields available; 2 numeric measures available) Tj ET
+0.420 0.460 0.520 rg
+BT /F1 8.00 Tf 60.00 129.00 Td (Prerequisites: Exception taxonomy, Approved message templates, Human review queue) Tj ET
+0.450 0.220 0.100 rg
+BT /F2 8.00 Tf 60.00 114.00 Td (Limit: Rules should detect exceptions; AI should explain and route them.) Tj ET
+0.82 0.84 0.88 RG 0.75 w 46 50 m 566 50 l S
+BT /F2 7.5 Tf 46 36 Td (Mindarora LLP | Suhas Bhairav | Copyright 2026. All rights reserved.) Tj ET
+BT /F1 6.5 Tf 46 24 Td (Confidential and proprietary. This report, analysis, recommendations, workflows, and all related materials are the property of Minda) Tj ET
+BT /F1 7 Tf 510 36 Td (Page 4 of 9) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 2804 >>
+stream
+0.970 0.980 0.990 rg
+0.00 760.00 612.00 32.00 re f
+0.250 0.290 0.340 rg
+BT /F2 9.00 Tf 46.00 772.00 Td (Applied AI Foundry Data Audit) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 14.00 Tf 46.00 720.00 Td (Workflows) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 11.00 Tf 46.00 700.00 Td (Lifecycle exception monitor) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.00 Tf 430.00 700.00 Td (High fit) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 9.00 Tf 46.00 684.00 Td (Flags stuck records, stale deals, delayed orders, or overdue cases before revenue leakage) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 9.00 Tf 46.00 669.00 Td (compounds.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.80 Tf 54.00 650.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.80 Tf 70.00 650.00 Td (Implementation: Rule engine triggers alerts when records remain in a stage beyond) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.80 Tf 54.00 636.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.80 Tf 70.00 636.00 Td (agreed service thresholds.) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 11.00 Tf 46.00 620.00 Td (Financial or pipeline anomaly review) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.00 Tf 430.00 620.00 Td (Medium fit) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 9.00 Tf 46.00 604.00 Td (Routes impossible values, outliers, and suspicious changes to operations owners before) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 9.00 Tf 46.00 589.00 Td (reporting cycles.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.80 Tf 54.00 570.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.80 Tf 70.00 570.00 Td (Implementation: Validation checks run on ingest and create review tasks for records) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.80 Tf 54.00 556.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.80 Tf 70.00 556.00 Td (outside accepted business ranges.) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 11.00 Tf 46.00 540.00 Td (Customer 360 enrichment queue) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.00 Tf 430.00 540.00 Td (Medium fit) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 9.00 Tf 46.00 524.00 Td (Improves segmentation, personalization, and lead routing by filling missing firmographic or) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 9.00 Tf 46.00 509.00 Td (contact attributes.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.80 Tf 54.00 490.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.80 Tf 70.00 490.00 Td (Implementation: Missing critical fields trigger enrichment, deduplication, and) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.80 Tf 54.00 476.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.80 Tf 70.00 476.00 Td (account-owner follow-up workflows.) Tj ET
+0.82 0.84 0.88 RG 0.75 w 46 50 m 566 50 l S
+BT /F2 7.5 Tf 46 36 Td (Mindarora LLP | Suhas Bhairav | Copyright 2026. All rights reserved.) Tj ET
+BT /F1 6.5 Tf 46 24 Td (Confidential and proprietary. This report, analysis, recommendations, workflows, and all related materials are the property of Minda) Tj ET
+BT /F1 7 Tf 510 36 Td (Page 5 of 9) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 3792 >>
+stream
+0.970 0.980 0.990 rg
+0.00 760.00 612.00 32.00 re f
+0.250 0.290 0.340 rg
+BT /F2 9.00 Tf 46.00 772.00 Td (Applied AI Foundry Data Audit) Tj ET
+0.350 0.390 0.450 rg
+BT /F1 9.00 Tf 430.00 772.00 Td (Ontology & Risk) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 22.00 Tf 46.00 720.00 Td (System Fingerprint) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 688.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 688.00 Td (Source type: CSV / Excel flat-file export) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 672.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 672.00 Td (Likely systems: ERP / Finance) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 656.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 656.00 Td (Join candidates: id, tax_id) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 640.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 640.00 Td (Lifecycle timestamps: order_date, ship_date) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 9.50 Tf 54.00 624.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 9.50 Tf 70.00 624.00 Td (Measures: id, invoice_amount) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 14.00 Tf 46.00 608.00 Td (Domain Model) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 10.50 Tf 46.00 588.00 Td (Customer - 87.2% complete) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 8.60 Tf 46.00 573.00 Td (Fields: company_name, email, tax_id) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 10.50 Tf 46.00 554.00 Td (Invoice - 98.5% complete) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 8.60 Tf 46.00 539.00 Td (Fields: id, order_date, ship_date, invoice_amount, payment_status) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 520.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 520.00 Td (Risk: invoice_amount has 1 anomalies) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 14.00 Tf 46.00 504.00 Td (Risk Register) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.80 Tf 54.00 484.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.80 Tf 70.00 484.00 Td (MEDIUM - Metric Trust: 1 anomalies detected across profiled columns. Mitigation: Add) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.80 Tf 54.00 470.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.80 Tf 70.00 470.00 Td (validation at source, quarantine bad records, and publish exception dashboards.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.80 Tf 54.00 454.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.80 Tf 70.00 454.00 Td (HIGH - Privacy and Access Control: 2 PII columns detected. Mitigation: Apply masking,) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.80 Tf 54.00 440.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.80 Tf 70.00 440.00 Td (role-based access, retention policy, and prompt-boundary rules for AI assistants.) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 14.00 Tf 46.00 424.00 Td (Minimum Data Contracts) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.80 Tf 54.00 404.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.80 Tf 70.00 404.00 Td (Invoice: require ship_date, id, order_date, invoice_amount, payment_status. Assign a) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.80 Tf 54.00 390.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.80 Tf 70.00 390.00 Td (business data owner for Invoice and review exceptions weekly.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.80 Tf 54.00 374.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.80 Tf 70.00 374.00 Td (Customer: require tax_id, email, company_name. Assign a business data owner for) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.80 Tf 54.00 360.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.80 Tf 70.00 360.00 Td (Customer and review exceptions weekly.) Tj ET
+0.82 0.84 0.88 RG 0.75 w 46 50 m 566 50 l S
+BT /F2 7.5 Tf 46 36 Td (Mindarora LLP | Suhas Bhairav | Copyright 2026. All rights reserved.) Tj ET
+BT /F1 6.5 Tf 46 24 Td (Confidential and proprietary. This report, analysis, recommendations, workflows, and all related materials are the property of Minda) Tj ET
+BT /F1 7 Tf 510 36 Td (Page 6 of 9) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 7544 >>
+stream
+0.970 0.980 0.990 rg
+0.00 760.00 612.00 32.00 re f
+0.250 0.290 0.340 rg
+BT /F2 9.00 Tf 46.00 772.00 Td (Applied AI Foundry Data Audit) Tj ET
+0.350 0.390 0.450 rg
+BT /F1 9.00 Tf 430.00 772.00 Td (Detailed Evidence Appendix) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 22.00 Tf 46.00 720.00 Td (Agent Readiness) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 11.00 Tf 46.00 688.00 Td (Lead Scoring Agent - 28% - Blocked) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 670.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 670.00 Td (Blocker: Lacks explicit lead-level attributes \(industry, size, lifecycle stage\) and) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 656.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 656.00 Td (engagement signals) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 640.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 640.00 Td (Blocker: Dataset is invoice-centric with limited historical conversion data) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 624.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 624.00 Td (Blocker: Data quality issues: duplicate records \(same Order ID appears twice\) and) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 610.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 610.00 Td (potential date inconsistencies) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 594.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 594.00 Td (Recommendation: Deduplicate records and enforce a true primary key for orders/invoices) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 578.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 578.00 Td (Recommendation: Integrate with CRM/customer master data to enrich with lead attributes) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 564.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 564.00 Td (\(industry, company size, region, lifecycle stage\)) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 548.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 548.00 Td (Recommendation: Capture or derive lead engagement signals \(last contact, response) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 534.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 534.00 Td (rate, marketing interactions\)) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 11.00 Tf 46.00 518.00 Td (RAG Document Retriever - 50% - Blocked) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 500.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 500.00 Td (Blocker: No unstructured document corpus or document store connected in current) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 486.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 486.00 Td (context) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 470.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 470.00 Td (Blocker: Dataset contains only structured invoice data; no attached docs or doc IDs) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 454.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 454.00 Td (Recommendation: Ingest and index unstructured documents \(attachments, contracts, PDFs\)) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 440.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 440.00 Td (into a document store) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 424.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 424.00 Td (Recommendation: Create document embeddings and retrieval prompts aligned to invoice) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 410.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 410.00 Td (queries) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 394.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 394.00 Td (Recommendation: Link invoices to related documents \(contracts, terms\) to enable) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 380.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 380.00 Td (retrieval over relevant docs) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 11.00 Tf 46.00 364.00 Td (Churn Predictor - 32% - Blocked) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 346.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 346.00 Td (Blocker: Limited longitudinal customer history; only a handful of invoice records) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 330.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 330.00 Td (Blocker: No explicit churn labels or customer tenure features) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 314.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 314.00 Td (Blocker: Quality issues: missing values \(null email\), inconsistent ship_date vs) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 300.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 300.00 Td (order_date, and duplicates) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 284.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 284.00 Td (Recommendation: Add a customer-level history dataset \(monthly orders, renewals,) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 270.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 270.00 Td (cancellations, tenure\)) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 254.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 254.00 Td (Recommendation: Engineer features such as time since last order, order frequency,) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 240.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 240.00 Td (average order value, payment stability) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 224.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 224.00 Td (Recommendation: Clean data: fix date inconsistencies, deduplicate, validate) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 210.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 210.00 Td (identifiers and contact info) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 11.00 Tf 46.00 194.00 Td (Financial Estimator - 65% - Viable) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 176.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 176.00 Td (Blocker: Requires richer historical revenue data and customer-level aggregation) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 160.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 160.00 Td (Blocker: Some missing values and potential currency normalization across records) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 144.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 144.00 Td (Blocker: Duplicate records and date anomalies could bias estimates) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 128.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 128.00 Td (Recommendation: Create customer-level revenue history by aggregating invoices over) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 114.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 114.00 Td (time) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 98.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 98.00 Td (Recommendation: Standardize currency and validate monetary units if multi-currency is) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 84.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 84.00 Td (present) Tj ET
+0.82 0.84 0.88 RG 0.75 w 46 50 m 566 50 l S
+BT /F2 7.5 Tf 46 36 Td (Mindarora LLP | Suhas Bhairav | Copyright 2026. All rights reserved.) Tj ET
+BT /F1 6.5 Tf 46 24 Td (Confidential and proprietary. This report, analysis, recommendations, workflows, and all related materials are the property of Minda) Tj ET
+BT /F1 7 Tf 510 36 Td (Page 7 of 9) Tj ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Length 7692 >>
+stream
+0.970 0.980 0.990 rg
+0.00 760.00 612.00 32.00 re f
+0.250 0.290 0.340 rg
+BT /F2 9.00 Tf 46.00 772.00 Td (Applied AI Foundry Data Audit) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 720.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 720.00 Td (Recommendation: Deduplicate and correct date anomalies; ensure data integrity before) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.60 Tf 54.00 706.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.60 Tf 70.00 706.00 Td (modeling) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 14.00 Tf 46.00 690.00 Td (Remediation) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 10.00 Tf 46.00 670.00 Td (1. HIGH - Model Constraint Violation \(AI Readiness Layer\)) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 8.60 Tf 46.00 655.00 Td (Deployment of 'Lead Scoring Agent' is currently blocked.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 636.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 636.00 Td (Fix the following blockers: Lacks explicit lead-level attributes \(industry, size,) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 622.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 622.00 Td (lifecycle stage\) and engagement signals; Dataset is invoice-centric with limited) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 608.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 608.00 Td (historical conversion data; Data quality issues: duplicate records \(same Order ID) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 594.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 594.00 Td (appears twice\) and potential date inconsistencies. Key Recommended Next Steps:) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 580.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 580.00 Td (Deduplicate records and enforce a true primary key for orders/invoices; Integrate with) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 566.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 566.00 Td (CRM/customer master data to enrich with lead attributes \(industry, company size,) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 552.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 552.00 Td (region, lifecycle stage\); Capture or derive lead engagement signals \(last contact,) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 538.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 538.00 Td (response rate, marketing interactions\); Implement robust data quality checks and) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 524.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 524.00 Td (lineage tracking) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 10.00 Tf 46.00 508.00 Td (2. HIGH - Model Constraint Violation \(AI Readiness Layer\)) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 8.60 Tf 46.00 493.00 Td (Deployment of 'Churn Predictor' is currently blocked.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 474.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 474.00 Td (Fix the following blockers: Limited longitudinal customer history; only a handful of) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 460.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 460.00 Td (invoice records; No explicit churn labels or customer tenure features; Quality issues:) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 446.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 446.00 Td (missing values \(null email\), inconsistent ship_date vs order_date, and duplicates. Key) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 432.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 432.00 Td (Recommended Next Steps: Add a customer-level history dataset \(monthly orders,) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 418.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 418.00 Td (renewals, cancellations, tenure\); Engineer features such as time since last order,) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 404.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 404.00 Td (order frequency, average order value, payment stability; Clean data: fix date) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 390.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 390.00 Td (inconsistencies, deduplicate, validate identifiers and contact info; Ensure privacy by) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 376.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 376.00 Td (design and obtain consent for using personal data in modeling) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 10.00 Tf 46.00 360.00 Td (3. MEDIUM - Data Cleansing Issue \(Invoice\)) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 8.60 Tf 46.00 345.00 Td (Attribute 'invoice_amount' contains 1 active format/outlier anomalies.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 326.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 326.00 Td (Review the records. Run formatting normalization script \(e.g., lowercase email) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 312.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 312.00 Td (normalization or phone standardization\) on targeted column.) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 10.00 Tf 46.00 296.00 Td (4. MEDIUM - Model Constraint Violation \(AI Readiness Layer\)) Tj ET
+0.250 0.290 0.340 rg
+BT /F1 8.60 Tf 46.00 281.00 Td (Deployment of 'RAG Document Retriever' is currently blocked.) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 262.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 262.00 Td (Fix the following blockers: No unstructured document corpus or document store) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 248.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 248.00 Td (connected in current context; Dataset contains only structured invoice data; no) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 234.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 234.00 Td (attached docs or doc IDs. Key Recommended Next Steps: Ingest and index unstructured) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 220.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 220.00 Td (documents \(attachments, contracts, PDFs\) into a document store; Create document) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 206.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 206.00 Td (embeddings and retrieval prompts aligned to invoice queries; Link invoices to related) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 192.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 192.00 Td (documents \(contracts, terms\) to enable retrieval over relevant docs; Define data) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.50 Tf 54.00 178.00 Td ( ) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.50 Tf 70.00 178.00 Td (governance for document retention and privacy) Tj ET
+0.050 0.070 0.100 rg
+BT /F2 14.00 Tf 46.00 162.00 Td (Column Evidence Appendix) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.40 Tf 54.00 142.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.40 Tf 70.00 142.00 Td (id: int64, 100.0% complete, 0 nulls, 12 distinct, 0 anomalies) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.40 Tf 54.00 126.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.40 Tf 70.00 126.00 Td (company_name: object, 100.0% complete, 0 nulls, 13 distinct, 0 anomalies) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.40 Tf 54.00 110.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.40 Tf 70.00 110.00 Td (email: object, 84.62% complete, 2 nulls, 11 distinct, 0 anomalies) Tj ET
+0.82 0.84 0.88 RG 0.75 w 46 50 m 566 50 l S
+BT /F2 7.5 Tf 46 36 Td (Mindarora LLP | Suhas Bhairav | Copyright 2026. All rights reserved.) Tj ET
+BT /F1 6.5 Tf 46 24 Td (Confidential and proprietary. This report, analysis, recommendations, workflows, and all related materials are the property of Minda) Tj ET
+BT /F1 7 Tf 510 36 Td (Page 8 of 9) Tj ET
+endstream
+endobj
+20 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 19 0 R >>
+endobj
+21 0 obj
+<< /Length 1457 >>
+stream
+0.970 0.980 0.990 rg
+0.00 760.00 612.00 32.00 re f
+0.250 0.290 0.340 rg
+BT /F2 9.00 Tf 46.00 772.00 Td (Applied AI Foundry Data Audit) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.40 Tf 54.00 720.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.40 Tf 70.00 720.00 Td (order_date: object, 100.0% complete, 0 nulls, 12 distinct, 0 anomalies) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.40 Tf 54.00 704.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.40 Tf 70.00 704.00 Td (ship_date: object, 92.31% complete, 1 nulls, 11 distinct, 0 anomalies) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.40 Tf 54.00 688.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.40 Tf 70.00 688.00 Td (invoice_amount: float64, 100.0% complete, 0 nulls, 12 distinct, 1 anomalies) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.40 Tf 54.00 672.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.40 Tf 70.00 672.00 Td (payment_status: object, 100.0% complete, 0 nulls, 3 distinct, 0 anomalies) Tj ET
+0.380 0.200 0.750 rg
+BT /F2 8.40 Tf 54.00 656.00 Td (-) Tj ET
+0.200 0.230 0.280 rg
+BT /F1 8.40 Tf 70.00 656.00 Td (tax_id: object, 76.92% complete, 3 nulls, 9 distinct, 0 anomalies) Tj ET
+0.82 0.84 0.88 RG 0.75 w 46 50 m 566 50 l S
+BT /F2 7.5 Tf 46 36 Td (Mindarora LLP | Suhas Bhairav | Copyright 2026. All rights reserved.) Tj ET
+BT /F1 6.5 Tf 46 24 Td (Confidential and proprietary. This report, analysis, recommendations, workflows, and all related materials are the property of Minda) Tj ET
+BT /F1 7 Tf 510 36 Td (Page 9 of 9) Tj ET
+endstream
+endobj
+22 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 21 0 R >>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000176 00000 n 
+0000000246 00000 n 
+0000000321 00000 n 
+0000004151 00000 n 
+0000004287 00000 n 
+0000009881 00000 n 
+0000010017 00000 n 
+0000013609 00000 n 
+0000013746 00000 n 
+0000018463 00000 n 
+0000018601 00000 n 
+0000021458 00000 n 
+0000021596 00000 n 
+0000025441 00000 n 
+0000025579 00000 n 
+0000033176 00000 n 
+0000033314 00000 n 
+0000041059 00000 n 
+0000041197 00000 n 
+0000042707 00000 n 
+trailer << /Size 23 /Root 1 0 R >>
+startxref
+42845
+%%EOF

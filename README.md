@@ -9,10 +9,10 @@ Website: [suhasbhairav.com](https://suhasbhairav.com)
 
 ## Executive Overview
 
-This folder contains **6 projects in total**, organized into two groups:
+This folder contains **7 projects in total**, organized into two groups:
 
 - **4 AI Agent Workflow Apps** for structured business analysis, policy checks, risk review, and human approval.
-- **2 AI Copilot Projects** for role-specific knowledge assistance using uploaded business documents.
+- **3 AI Copilot Projects** for role-specific knowledge assistance using uploaded business documents.
 
 The common goal across all projects is practical enterprise adoption: useful workflows, clear outputs, reviewable decisions, and business controls.
 
@@ -25,12 +25,13 @@ The common goal across all projects is practical enterprise adoption: useful wor
 | AI Project Risk Review Agent | PMO, delivery, and transformation leadership | Assesses project delivery risk, identifies missing controls, and requires human approval before formal risk-register submission. | [Open project](./ai-project-risk-review-agent/) |
 | AI Contract Renewal Agent | Legal, procurement, finance, and vendor management | Reviews renewals for commercial, legal, performance, security, and business-value risk before renewal execution. | [Open project](./ai-contract-renewal-agent/) |
 
-## AI Copilot Projects (2 Projects)
+## AI Copilot Projects (3 Projects)
 
 The AI Copilots are included under [`ai-copilots`](./ai-copilots/) and are separate from the workflow approval apps. They focus on helping business users retrieve, understand, and act on knowledge from uploaded PDF documents.
 
 | Copilot Project | Business Function | Business Value | Link |
 | --- | --- | --- | --- |
+| Sales Knowledge Engine: 10 AI Workflow Buttons | Sales enablement, account teams, and revenue operations | Turns uploaded sales PDFs into 10 guided AI workflow buttons for account briefs, pain point discovery, objection handling, proposals, renewals, meeting prep, CRM notes, and fallback chat. | [Open Sales Knowledge Engine](./ai-copilots/knowledge-engine-copilot/) |
 | Sales Copilot | Sales enablement and account teams | Turns sales PDFs, reports, playbooks, and reference documents into a searchable assistant for faster account preparation and customer conversations. | [Open Sales Copilot](./ai-copilots/sales-copilot/) |
 | Customer Service Copilot | Customer service and support operations | Indexes service policies, FAQs, manuals, and SLA documents, then drafts customer-ready replies in selectable service tones. | [Open Customer Service Copilot](./ai-copilots/customer-service-copilot/) |
 
@@ -80,6 +81,17 @@ Source links:
 - [Application UI](./ai-contract-renewal-agent/app/page.js)
 - [Contract renewal API](./ai-contract-renewal-agent/app/api/contract-renewal-agent/route.js)
 
+### [Sales Knowledge Engine: 10 AI Workflow Buttons](./ai-copilots/knowledge-engine-copilot/)
+
+A workflow-first sales knowledge engine for revenue teams. Users upload sales PDFs, proposals, case studies, product documents, customer notes, and RFP material, then run guided workflow buttons instead of starting from a blank chatbot.
+
+The project includes 10 sales workflows: account briefing, customer pain point finder, objection handling, proposal draft, follow-up email, competitor comparison, renewal risk review, upsell opportunity finder, meeting preparation, and CRM note generation. A fallback chat remains available for open-ended questions.
+
+Source links:
+
+- [Frontend UI](./ai-copilots/knowledge-engine-copilot/frontend/app/page.js)
+- [FastAPI backend](./ai-copilots/knowledge-engine-copilot/fastapi-backend/main.py)
+
 ### [Sales Copilot](./ai-copilots/sales-copilot/)
 
 A document-based sales assistant for uploaded PDF knowledge. Sales teams can upload reference documents and chat with them to support account planning, discovery preparation, and customer conversations.
@@ -110,7 +122,7 @@ Source links:
 
 The Next.js agent apps use React, Tailwind CSS, JavaScript, the OpenAI Agents SDK, and Zod.
 
-The copilot apps use a Next.js frontend with a FastAPI backend, LlamaIndex, OpenAI models, PDF upload, and local vector storage.
+The copilot apps use a Next.js frontend with a FastAPI backend, LlamaIndex, OpenAI models, PDF upload, and local vector storage. The Sales Knowledge Engine also exposes task-specific workflow endpoints so business users can click guided actions instead of writing prompts.
 
 ### Environment Variables
 
@@ -149,6 +161,8 @@ The FastAPI copilot backends use:
 ```bash
 OPENAI_API_KEY=your_openai_api_key
 FRONTEND_ORIGINS=http://localhost:3000,http://127.0.0.1:3000
+OPENAI_MODEL=gpt-4o-mini
+OPENAI_EMBEDDING_MODEL=text-embedding-3-small
 ```
 
 ### Running Locally
@@ -167,7 +181,25 @@ Use the same command pattern for [AI Procurement Approval Agent](./ai-human-agen
 
 For an AI Copilot project, run the backend and frontend separately.
 
-Backend:
+Sales Knowledge Engine backend:
+
+```bash
+cd ai-copilots/knowledge-engine-copilot/fastapi-backend
+python -m venv .venv
+source .venv/bin/activate
+pip install fastapi uvicorn python-multipart python-dotenv llama-index llama-index-llms-openai llama-index-embeddings-openai
+uvicorn main:app --reload --host 127.0.0.1 --port 8000
+```
+
+Sales Knowledge Engine frontend:
+
+```bash
+cd ai-copilots/knowledge-engine-copilot/frontend
+npm install
+npm run dev
+```
+
+Sales Copilot backend:
 
 ```bash
 cd ai-copilots/sales-copilot/fastapi-backend
@@ -177,7 +209,7 @@ pip install fastapi uvicorn python-multipart python-dotenv llama-index llama-ind
 uvicorn main:app --reload --host 127.0.0.1 --port 8000
 ```
 
-Frontend:
+Sales Copilot frontend:
 
 ```bash
 cd ai-copilots/sales-copilot/frontend
