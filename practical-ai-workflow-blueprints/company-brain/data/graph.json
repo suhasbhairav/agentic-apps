@@ -1,0 +1,252 @@
+{
+  "nodes": [
+    {
+      "id": "ai-workflow-readiness-brief (9).pdf_1.md",
+      "name": "ai-workflow-readiness-brief (9).pdf_1",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:35:50.335Z"
+    },
+    {
+      "id": "ai-workflow-readiness-brief (9).pdf_2.md",
+      "name": "ai-workflow-readiness-brief (9).pdf_2",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:35:53.640Z"
+    },
+    {
+      "id": "ai-workflow-readiness-brief (9).pdf_3.md",
+      "name": "ai-workflow-readiness-brief (9).pdf_3",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:35:54.927Z"
+    },
+    {
+      "id": "data.md_1.md",
+      "name": "data.md_1",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [
+          "Cerenovus inference engine"
+        ],
+        "processes": [
+          "test",
+          "train",
+          "demonstrate"
+        ]
+      },
+      "lastSync": "2026-06-08T18:35:57.108Z"
+    },
+    {
+      "id": "data.md_2.md",
+      "name": "data.md_2",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:35:58.480Z"
+    },
+    {
+      "id": "data.md_3.md",
+      "name": "data.md_3",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:35:59.533Z"
+    },
+    {
+      "id": "data.md_4.md",
+      "name": "data.md_4",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:36:01.198Z"
+    },
+    {
+      "id": "data.md_5.md",
+      "name": "data.md_5",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:36:05.955Z"
+    },
+    {
+      "id": "data.md_6.md",
+      "name": "data.md_6",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:36:12.517Z"
+    },
+    {
+      "id": "data.md_7.md",
+      "name": "data.md_7",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:36:13.252Z"
+    },
+    {
+      "id": "data.md_8.md",
+      "name": "data.md_8",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:36:14.948Z"
+    },
+    {
+      "id": "data.md_9.md",
+      "name": "data.md_9",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:36:16.349Z"
+    },
+    {
+      "id": "data.md_10.md",
+      "name": "data.md_10",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:36:17.364Z"
+    },
+    {
+      "id": "data.md_11.md",
+      "name": "data.md_11",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:36:18.140Z"
+    },
+    {
+      "id": "data.md_12.md",
+      "name": "data.md_12",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:36:19.688Z"
+    },
+    {
+      "id": "data.md_13.md",
+      "name": "data.md_13",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:36:20.536Z"
+    },
+    {
+      "id": "data.md_14.md",
+      "name": "data.md_14",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:36:22.294Z"
+    },
+    {
+      "id": "data.md_15.md",
+      "name": "data.md_15",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:36:23.642Z"
+    },
+    {
+      "id": "data.md_16.md",
+      "name": "data.md_16",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:36:24.951Z"
+    },
+    {
+      "id": "data.md_17.md",
+      "name": "data.md_17",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:36:26.773Z"
+    },
+    {
+      "id": "data.md_18.md",
+      "name": "data.md_18",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:36:28.145Z"
+    },
+    {
+      "id": "data.md_19.md",
+      "name": "data.md_19",
+      "type": "Document",
+      "entities": {
+        "people": [],
+        "tools": [],
+        "processes": []
+      },
+      "lastSync": "2026-06-08T18:36:30.483Z"
+    }
+  ]
+}

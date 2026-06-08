@@ -1,0 +1,1264 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 3679
+>>
+stream
+0.200025 w
+0 G
+0.97 0.98 0.99 rg
+0. 841.8899999999999864 595.2799999999999727 -841.8899999999999864 re
+f
+0.06 0.09 0.16 RG
+1.3999999999999999 w
+42. 745.8899999999999864 m
+553.2799999999999727 745.8899999999999864 l
+S
+0.39 0.4 0.95 RG
+4. w
+42. 739.8899999999999864 m
+160. 739.8899999999999864 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.31 0.275 0.898 rg
+42. 767.8899999999999864 Td
+(AI WORKFLOW SIMULATOR) Tj
+ET
+BT
+/F2 30 Tf
+34.5 TL
+0.059 0.09 0.165 rg
+42. 665.8899999999999864 Td
+(AI Workflow) Tj
+ET
+BT
+/F2 30 Tf
+34.5 TL
+0.059 0.09 0.165 rg
+42. 627.8899999999999864 Td
+(Readiness Brief) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.278 0.333 0.412 rg
+42. 591.8899999999999864 Td
+(A static, synthetic workflow briefing for understanding AI-assisted process design, guardrails,) Tj
+T* (human oversight, software touchpoints, exception handling, and audit requirements.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+42. 497.8899999999999864 Td
+(Created by Suhas Bhairav) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+42. 477.8899999999999864 Td
+(Year: 2026) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+42. 459.8899999999999864 Td
+(Questions: suhasbhairav@gmail.com) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+42. 441.8899999999999864 Td
+(Website: https://suhasbhairav.com) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.059 0.09 0.165 rg
+42. 415.8899999999999864 Td
+(Social links) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.278 0.333 0.412 rg
+42. 397.8899999999999864 Td
+(LinkedIn: https://www.linkedin.com/in/suhasbhairav/) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.278 0.333 0.412 rg
+42. 383.8899999999999864 Td
+(GitHub: https://github.com/suhasbhairav) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.278 0.333 0.412 rg
+42. 369.8899999999999864 Td
+(YouTube: https://www.youtube.com/@suhasbhairav) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.278 0.333 0.412 rg
+42. 355.8899999999999864 Td
+(Instagram: https://www.instagram.com/suhasbhairav/) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.278 0.333 0.412 rg
+42. 341.8899999999999864 Td
+(X: https://twitter.com/suhasbhairav) Tj
+ET
+0.89 0.91 0.94 RG
+50. 311.8899999999999864 m
+545.2799999999999727 311.8899999999999864 l
+549.6982779986462901 311.8899999999999864 553.2799999999999727 308.3082779986463038 553.2799999999999727 303.8899999999999864 c
+553.2799999999999727 207.8899999999999864 l
+553.2799999999999727 203.4717220013536689 548.8617220013536553 199.8899999999999864 545.2799999999999727 199.8899999999999864 c
+50. 199.8899999999999864 l
+45.5817220013536542 199.8899999999999864 42. 204.3082779986463038 42. 207.8899999999999864 c
+42. 303.8899999999999864 l
+42. 308.3082779986463038 46.4182779986463458 311.8899999999999864 50. 311.8899999999999864 c
+h
+S
+BT
+/F2 10 Tf
+11.5 TL
+0.059 0.09 0.165 rg
+60. 285.8899999999999864 Td
+(Cover note) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.278 0.333 0.412 rg
+60. 263.8899999999999864 Td
+(This document is generated from a frontend-only simulator using synthetic examples. It is intended as an educational) Tj
+T* (workflow artifact for personal website visitors and should not be interpreted as advice, endorsement, or a statement) Tj
+T* (about any employer or organization.) Tj
+ET
+0.89 0.91 0.94 RG
+0.7 w
+42. 58. m
+553.2799999999999727 58. l
+S
+BT
+/F1 7.5 Tf
+8.625 TL
+0.392 0.455 0.545 rg
+42. 42. Td
+(Personal website report. Views are my own. Synthetic simulator only; no real company data, business system connection, or) Tj
+T* (legal/compliance/employment/implementation advice.) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.392 0.455 0.545 rg
+478.7299999999999613 42. Td
+(© 2026 Suhas Bhairav) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.392 0.455 0.545 rg
+515.17999999999995 28. Td
+(Page 1 of 3) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 10709
+>>
+stream
+4. w
+0.89 0.91 0.94 RG
+BT
+/F2 20 Tf
+23. TL
+0.059 0.09 0.165 rg
+42. 793.8899999999999864 Td
+(AI Workflow Readiness Brief) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.059 0.09 0.165 rg
+42. 775.8899999999999864 Td
+(Static executive simulator report. No real company data was collected or processed.) Tj
+ET
+0.89 0.91 0.94 RG
+4. w
+0.89 0.91 0.94 RG
+4. w
+0.12 0.16 0.23 rg
+0.78 G
+0. w
+0.12 0.16 0.23 rg
+40. 753.8899999999999864 147.1222148797994578 -22.3500000000000014 re
+f
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+1. g
+46. 740.2400000000000091 Td
+(Selection) Tj
+ET
+0.12 0.16 0.23 rg
+0.78 G
+0. w
+0.12 0.16 0.23 rg
+187.1222148797994578 753.8899999999999864 368.1577851202005149 -22.3500000000000014 re
+f
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+1. g
+193.1222148797994578 740.2400000000000091 Td
+(Value) Tj
+ET
+0.89 0.91 0.94 RG
+4. w
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 731.5399999999999636 147.1222148797994578 -22.3500000000000014 re
+f
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.314 g
+46. 717.8899999999999864 Td
+(Business area) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+187.1222148797994578 731.5399999999999636 368.1577851202005149 -22.3500000000000014 re
+f
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.314 g
+193.1222148797994578 717.8899999999999864 Td
+(Sales) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+40. 709.1900000000000546 147.1222148797994578 -22.3500000000000014 re
+f
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.314 g
+46. 695.5399999999999636 Td
+(Tool stack) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+187.1222148797994578 709.1900000000000546 368.1577851202005149 -22.3500000000000014 re
+f
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.314 g
+193.1222148797994578 695.5399999999999636 Td
+(CRM + Email) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 686.8400000000000318 147.1222148797994578 -105.1499999999999915 re
+f
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.314 g
+46. 673.1900000000000546 Td
+(Step-level apps) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+187.1222148797994578 686.8400000000000318 368.1577851202005149 -105.1499999999999915 re
+f
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.314 g
+193.1222148797994578 673.1900000000000546 Td
+(Trigger: HubSpot or Salesforce) Tj
+T* (Intake: HubSpot Forms + Gmail) Tj
+T* (Data Retrieval: Salesforce + Outlook) Tj
+T* (Data Quality Check: Insycle) Tj
+T* (AI Analysis: Salesforce Einstein or ChatGPT) Tj
+T* (Guardrail Review: Salesforce Flow) Tj
+T* (Human Approval: Salesforce Approvals) Tj
+T* (Final Action: Outlook or Gmail) Tj
+T* (Logging: Salesforce Activity Timeline) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+40. 581.6900000000000546 147.1222148797994578 -22.3500000000000014 re
+f
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.314 g
+46. 568.0399999999999636 Td
+(Workflow goal) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+187.1222148797994578 581.6900000000000546 368.1577851202005149 -22.3500000000000014 re
+f
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.314 g
+193.1222148797994578 568.0399999999999636 Td
+(Detect Missing Information) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 559.3399999999999181 147.1222148797994578 -22.3500000000000014 re
+f
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.314 g
+46. 545.6900000000000546 Td
+(Risk level) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+187.1222148797994578 559.3399999999999181 368.1577851202005149 -22.3500000000000014 re
+f
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.314 g
+193.1222148797994578 545.6900000000000546 Td
+(Medium Risk) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+40. 536.9900000000000091 147.1222148797994578 -22.3500000000000014 re
+f
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.314 g
+46. 523.3399999999999181 Td
+(Oversight mode) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+187.1222148797994578 536.9900000000000091 368.1577851202005149 -22.3500000000000014 re
+f
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.314 g
+193.1222148797994578 523.3399999999999181 Td
+(Approval Before Final Action) Tj
+ET
+0.89 0.91 0.94 RG
+4. w
+0.78 G
+0. w
+0.89 0.91 0.94 RG
+4. w
+0.89 0.91 0.94 RG
+4. w
+0.89 0.91 0.94 RG
+4. w
+0.89 0.91 0.94 RG
+4. w
+0.31 0.27 0.9 rg
+0.78 G
+0. w
+0.31 0.27 0.9 rg
+40. 496.6399999999999295 515.2799999999999727 -22.3500000000000014 re
+f
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+1. g
+46. 482.9899999999999523 Td
+(Governance Recommendations) Tj
+ET
+0.89 0.91 0.94 RG
+4. w
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 474.2899999999999068 515.2799999999999727 -22.3500000000000014 re
+f
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.314 g
+46. 460.6399999999999295 Td
+(Named human owner) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+40. 451.939999999999884 515.2799999999999727 -22.3500000000000014 re
+f
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.314 g
+46. 438.2899999999999068 Td
+(Approved source list) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 429.5899999999998613 515.2799999999999727 -22.3500000000000014 re
+f
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.314 g
+46. 415.939999999999884 Td
+(Confidence threshold) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+40. 407.2399999999998386 515.2799999999999727 -22.3500000000000014 re
+f
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.314 g
+46. 393.5899999999998613 Td
+(Exception routing path) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 384.8899999999998158 515.2799999999999727 -22.3500000000000014 re
+f
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.314 g
+46. 371.2399999999998386 Td
+(Audit log for every recommendation) Tj
+ET
+0.89 0.91 0.94 RG
+4. w
+0.78 G
+0. w
+0.89 0.91 0.94 RG
+4. w
+0.89 0.91 0.94 RG
+4. w
+0.89 0.91 0.94 RG
+4. w
+0.89 0.91 0.94 RG
+4. w
+0.06 0.46 0.43 rg
+0.78 G
+0. w
+0.06 0.46 0.43 rg
+40. 344.5399999999997931 247.3026980296480701 -21.7749999999999986 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+1. g
+46. 331.3149999999997704 Td
+(Safe AI Actions) Tj
+ET
+0.06 0.46 0.43 rg
+0.78 G
+0. w
+0.06 0.46 0.43 rg
+287.3026980296480701 344.5399999999997931 267.9773019703519026 -21.7749999999999986 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+1. g
+293.3026980296480701 331.3149999999997704 Td
+(Restricted AI Actions) Tj
+ET
+0.89 0.91 0.94 RG
+4. w
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 322.764999999999759 247.3026980296480701 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+46. 309.5399999999997362 Td
+(Summarize records into plain English) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+287.3026980296480701 322.764999999999759 267.9773019703519026 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+293.3026980296480701 309.5399999999997362 Td
+(Make irreversible business decisions) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+40. 300.9899999999997817 247.3026980296480701 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+46. 287.764999999999759 Td
+(Classify request type and urgency) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+287.3026980296480701 300.9899999999997817 267.9773019703519026 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+293.3026980296480701 287.764999999999759 Td
+(Send sensitive external messages without review) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 279.2149999999998045 247.3026980296480701 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+46. 265.9899999999997817 Td
+(Draft internal notes for review) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+287.3026980296480701 279.2149999999998045 267.9773019703519026 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+293.3026980296480701 265.9899999999997817 Td
+(Change official records without approval) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+40. 257.4399999999998272 247.3026980296480701 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+46. 244.2149999999998045 Td
+(Identify missing information) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+287.3026980296480701 257.4399999999998272 267.9773019703519026 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+293.3026980296480701 244.2149999999998045 Td
+(Ignore policy conflicts or low-confidence outputs) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 235.6649999999998499 247.3026980296480701 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+46. 222.4399999999998272 Td
+(Prepare a checklist for the responsible owner) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+287.3026980296480701 235.6649999999998499 267.9773019703519026 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+293.3026980296480701 222.4399999999998272 Td
+(Use private data outside approved context) Tj
+ET
+0.89 0.91 0.94 RG
+4. w
+0.78 G
+0. w
+0.89 0.91 0.94 RG
+4. w
+0.89 0.91 0.94 RG
+4. w
+0.89 0.91 0.94 RG
+4. w
+0.89 0.91 0.94 RG
+4. w
+0.71 0.33 0.04 rg
+0.78 G
+0. w
+0.71 0.33 0.04 rg
+40. 195.8899999999998727 515.2799999999999727 -21.7749999999999986 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+1. g
+46. 182.6649999999998499 Td
+(Failure Simulation Summary) Tj
+ET
+0.89 0.91 0.94 RG
+4. w
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 174.1149999999998954 515.2799999999999727 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+46. 160.8899999999998727 Td
+(Sensitive language detected \(critical\)) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+40. 152.3399999999999181 515.2799999999999727 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+46. 139.1149999999998954 Td
+(Pause the workflow, mark the output as review-required, and attach the source concern.) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 130.5649999999999409 515.2799999999999727 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+46. 117.3399999999999181 Td
+(Review the source evidence, correct the record or policy interpretation, and decide whether the workflow can continue.) Tj
+ET
+0.89 0.91 0.94 RG
+4. w
+0.78 G
+0. w
+0.89 0.91 0.94 RG
+4. w
+0.89 0.91 0.94 RG
+4. w
+0.89 0.91 0.94 RG
+4. w
+0.89 0.91 0.94 RG
+4. w
+0.2 0.25 0.33 rg
+0.78 G
+0. w
+0.2 0.25 0.33 rg
+40. 90.7899999999999636 343.6589854852576877 -21.7749999999999986 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+1. g
+46. 77.5649999999999409 Td
+(Governance Timeline) Tj
+ET
+0.2 0.25 0.33 rg
+0.78 G
+0. w
+0.2 0.25 0.33 rg
+383.6589854852576877 90.7899999999999636 171.6210145147423134 -21.7749999999999986 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+1. g
+389.6589854852576877 77.5649999999999409 Td
+(Control Note) Tj
+ET
+0.89 0.91 0.94 RG
+4. w
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 69.0149999999999864 343.6589854852576877 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+46. 55.7899999999999636 Td
+(Trigger received with source reference) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+383.6589854852576877 69.0149999999999864 171.6210145147423134 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+389.6589854852576877 55.7899999999999636 Td
+(Selected source record) Tj
+ET
+0.89 0.91 0.94 RG
+4. w
+0.89 0.91 0.94 RG
+4. w
+0.78 G
+0. w
+0.89 0.91 0.94 RG
+0.7 w
+42. 58. m
+553.2799999999999727 58. l
+S
+BT
+/F1 7.5 Tf
+8.625 TL
+0.392 0.455 0.545 rg
+42. 42. Td
+(Personal website report. Views are my own. Synthetic simulator only; no real company data, business system connection, or) Tj
+T* (legal/compliance/employment/implementation advice.) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.392 0.455 0.545 rg
+478.7299999999999613 42. Td
+(© 2026 Suhas Bhairav) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.392 0.455 0.545 rg
+515.17999999999995 28. Td
+(Page 2 of 3) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 3463
+>>
+stream
+0. w
+0.78 G
+0.2 0.25 0.33 rg
+0.78 G
+0. w
+0.2 0.25 0.33 rg
+40. 801.8899999999999864 343.6589854852576877 -21.7749999999999986 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+1. g
+46. 788.6649999999999636 Td
+(Governance Timeline) Tj
+ET
+0.2 0.25 0.33 rg
+0.78 G
+0. w
+0.2 0.25 0.33 rg
+383.6589854852576877 801.8899999999999864 171.6210145147423134 -21.7749999999999986 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+1. g
+389.6589854852576877 788.6649999999999636 Td
+(Control Note) Tj
+ET
+0.89 0.91 0.94 RG
+4. w
+1. g
+0.78 G
+0. w
+1. g
+40. 780.1150000000000091 343.6589854852576877 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+46. 766.8899999999999864 Td
+(Data quality and policy checks run) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+383.6589854852576877 780.1150000000000091 171.6210145147423134 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+389.6589854852576877 766.8899999999999864 Td
+(AI recommendation) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 758.3400000000000318 343.6589854852576877 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+46. 745.1150000000000091 Td
+(AI prepares recommendation) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+383.6589854852576877 758.3400000000000318 171.6210145147423134 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+389.6589854852576877 745.1150000000000091 Td
+(Confidence label) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+40. 736.5650000000000546 343.6589854852576877 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+46. 723.3400000000000318 Td
+(Exception rules decide whether review is required) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+383.6589854852576877 736.5650000000000546 171.6210145147423134 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+389.6589854852576877 723.3400000000000318 Td
+(Reviewer decision) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 714.7899999999999636 343.6589854852576877 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+46. 701.5650000000000546 Td
+(Final action and reviewer decision are logged) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+383.6589854852576877 714.7899999999999636 171.6210145147423134 -21.7749999999999986 re
+f
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.314 g
+389.6589854852576877 701.5650000000000546 Td
+(Final action timestamp) Tj
+ET
+0.89 0.91 0.94 RG
+4. w
+0.78 G
+0. w
+0.89 0.91 0.94 RG
+4. w
+0.89 0.91 0.94 RG
+4. w
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.059 0.075 0.165 rg
+42. 669.0149999999999864 Td
+(Important note) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.059 0.075 0.165 rg
+42. 653.0149999999999864 Td
+(This report is generated from a static simulator using synthetic examples. It does not use real company data, does not) Tj
+T* (connect to any business system, and does not provide legal, compliance, employment, or implementation advice.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.059 0.075 0.165 rg
+42. 611.0149999999999864 Td
+(For any questions about this workflow simulator, please email suhasbhairav@gmail.com.) Tj
+ET
+0.89 0.91 0.94 RG
+0.7 w
+42. 58. m
+553.2799999999999727 58. l
+S
+BT
+/F1 7.5 Tf
+8.625 TL
+0.392 0.455 0.545 rg
+42. 42. Td
+(Personal website report. Views are my own. Synthetic simulator only; no real company data, business system connection, or) Tj
+T* (legal/compliance/employment/implementation advice.) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.392 0.455 0.545 rg
+478.7299999999999613 42. Td
+(© 2026 Suhas Bhairav) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.392 0.455 0.545 rg
+515.17999999999995 28. Td
+(Page 3 of 3) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R ]
+/Count 3
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 9 0 R
+/F2 10 0 R
+/F3 11 0 R
+/F4 12 0 R
+/F5 13 0 R
+/F6 14 0 R
+/F7 15 0 R
+/F8 16 0 R
+/F9 17 0 R
+/F10 18 0 R
+/F11 19 0 R
+/F12 20 0 R
+/F13 21 0 R
+/F14 22 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+23 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20260608144539+02'00')
+>>
+endobj
+24 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000018434 00000 n 
+0000020267 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000003883 00000 n 
+0000004020 00000 n 
+0000014782 00000 n 
+0000014919 00000 n 
+0000018503 00000 n 
+0000018628 00000 n 
+0000018759 00000 n 
+0000018893 00000 n 
+0000019031 00000 n 
+0000019155 00000 n 
+0000019284 00000 n 
+0000019416 00000 n 
+0000019552 00000 n 
+0000019680 00000 n 
+0000019807 00000 n 
+0000019936 00000 n 
+0000020069 00000 n 
+0000020171 00000 n 
+0000020519 00000 n 
+0000020605 00000 n 
+trailer
+<<
+/Size 25
+/Root 24 0 R
+/Info 23 0 R
+/ID [ <843537A36E33B9E320CD49837C9C8AED> <843537A36E33B9E320CD49837C9C8AED> ]
+>>
+startxref
+20709
+%%EOF
