@@ -1,6 +1,6 @@
 # Enterprise AI Agent Apps
 
-A portfolio of enterprise AI agent applications built around high-value business workflows: customer support, procurement, project risk, contract renewals, sales enablement, and customer service operations.
+A portfolio of enterprise AI agent applications built around high-value business workflows: customer support, procurement, project risk, contract renewals, sales enablement, customer service operations, and organizational knowledge intelligence.
 
 These apps are designed to show how agentic AI can improve decision quality, reduce manual analysis, standardize governance, and keep humans in control of sensitive business actions.
 
@@ -9,10 +9,11 @@ Website: [suhasbhairav.com](https://suhasbhairav.com)
 
 ## Executive Overview
 
-This folder contains **7 projects in total**, organized into two groups:
+This folder contains **8 projects in total**, organized into three groups:
 
 - **4 AI Agent Workflow Apps** for structured business analysis, policy checks, risk review, and human approval.
 - **3 AI Copilot Projects** for role-specific knowledge assistance using uploaded business documents.
+- **1 Practical AI Workflow Blueprint** for a company brain / organizational knowledge graph application.
 
 The common goal across all projects is practical enterprise adoption: useful workflows, clear outputs, reviewable decisions, and business controls.
 
@@ -34,6 +35,14 @@ The AI Copilots are included under [`ai-copilots`](./ai-copilots/) and are separ
 | Sales Knowledge Engine: 10 AI Workflow Buttons | Sales enablement, account teams, and revenue operations | Turns uploaded sales PDFs into 10 guided AI workflow buttons for account briefs, pain point discovery, objection handling, proposals, renewals, meeting prep, CRM notes, and fallback chat. | [Open Sales Knowledge Engine](./ai-copilots/knowledge-engine-copilot/) |
 | Sales Copilot | Sales enablement and account teams | Turns sales PDFs, reports, playbooks, and reference documents into a searchable assistant for faster account preparation and customer conversations. | [Open Sales Copilot](./ai-copilots/sales-copilot/) |
 | Customer Service Copilot | Customer service and support operations | Indexes service policies, FAQs, manuals, and SLA documents, then drafts customer-ready replies in selectable service tones. | [Open Customer Service Copilot](./ai-copilots/customer-service-copilot/) |
+
+## Practical AI Workflow Blueprints (1 Project)
+
+The practical workflow blueprints are included under [`practical-ai-workflow-blueprints`](./practical-ai-workflow-blueprints/). These projects focus on static, inspectable application patterns for business leaders and builders who want to understand how an AI workflow could be structured before connecting real enterprise systems.
+
+| Blueprint Project | Business Function | Business Value | Link |
+| --- | --- | --- | --- |
+| Company Brain | Enterprise knowledge management, operations, and decision support | Maps documents, people, tools, and processes into a company knowledge graph with upload, graph, and chat interfaces for source-aware organizational intelligence. | [Open Company Brain](./practical-ai-workflow-blueprints/company-brain/) |
 
 ## Project Details
 
@@ -110,6 +119,20 @@ Source links:
 - [Frontend UI](./ai-copilots/customer-service-copilot/frontend/app/page.js)
 - [FastAPI backend](./ai-copilots/customer-service-copilot/fastapi-backend/main.py)
 
+### [Company Brain](./practical-ai-workflow-blueprints/company-brain/)
+
+A practical AI workflow blueprint for building an enterprise organizational knowledge brain. It turns uploaded documents and operating records into a knowledge graph and provides graph, upload, and chat interfaces for exploring how company knowledge connects across documents, people, tools, and processes.
+
+This project is useful for teams exploring source-aware AI answers, organizational dependency mapping, process bottleneck discovery, and company-brain patterns before connecting production systems.
+
+Source links:
+
+- [Home interface](./practical-ai-workflow-blueprints/company-brain/app/page.js)
+- [Knowledge graph page](./practical-ai-workflow-blueprints/company-brain/app/graph/page.js)
+- [Chat interface](./practical-ai-workflow-blueprints/company-brain/app/chat/page.js)
+- [Upload workflow](./practical-ai-workflow-blueprints/company-brain/app/upload/page.js)
+- [Brain utilities](./practical-ai-workflow-blueprints/company-brain/lib/brain.js)
+
 ## Enterprise Themes
 
 - **Human control:** approval-based apps pause sensitive actions for human review.
@@ -117,12 +140,15 @@ Source links:
 - **Governance:** workflows surface missing information, risk, policy issues, and approval needs.
 - **Operational usefulness:** each app is built around a real business process, not a generic chatbot.
 - **Knowledge leverage:** copilot apps turn business documents into role-specific assistants.
+- **Organizational intelligence:** blueprint apps show how company knowledge can become a graph-backed AI workflow substrate.
 
 ## Developer Notes
 
 The Next.js agent apps use React, Tailwind CSS, JavaScript, the OpenAI Agents SDK, and Zod.
 
 The copilot apps use a Next.js frontend with a FastAPI backend, LlamaIndex, OpenAI models, PDF upload, and local vector storage. The Sales Knowledge Engine also exposes task-specific workflow endpoints so business users can click guided actions instead of writing prompts.
+
+The Company Brain blueprint is a standalone Next.js app located at [`practical-ai-workflow-blueprints/company-brain`](./practical-ai-workflow-blueprints/company-brain/). It includes graph, upload, ingestion, and chat routes for experimenting with organizational knowledge workflows.
 
 ### Environment Variables
 
@@ -218,6 +244,14 @@ npm run dev
 ```
 
 Use the same backend/frontend pattern for [Customer Service Copilot](./ai-copilots/customer-service-copilot/). The current frontend code expects the FastAPI backend at `http://127.0.0.1:8000`.
+
+Company Brain blueprint:
+
+```bash
+cd practical-ai-workflow-blueprints/company-brain
+npm install
+npm run dev
+```
 
 ## License
 
